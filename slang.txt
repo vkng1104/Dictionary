@@ -1,0 +1,3765 @@
+0
+0
+ 
+1
+40
+HK
+2
+95
+$Hong Kong| Hostile Kids
+1
+45
+MCR
+2
+95
+$My Chemical Romance (band)
+0
+3
+#1
+1
+95
+$Number one
+0
+4
+$
+1
+63
+_$
+2
+95
+$Has money
+1
+95
+$Dollar| money
+0
+5
+%)
+1
+95
+$Drunk| giddy
+0
+6
+&
+1
+33
+APOS;S
+2
+95
+$Wrongly displayed 's
+1
+40
+HEARTS;
+2
+95
+$HTML code for a heart
+1
+95
+$And
+0
+7
+'EM
+1
+95
+$Them
+0
+8
+(
+1
+1
+!)
+2
+95
+$Sarcasm
+1
+7
+'_')
+2
+95
+$Emoticon Representing Boredom
+1
+14
+.)(.)
+2
+95
+$Female Breasts
+1
+24
+8)
+2
+95
+$Musical note (MSN)
+1
+26
+:
+2
+95
+$Happy
+1
+33
+A)
+2
+95
+$Angel (MSN)
+1
+40
+H)
+2
+95
+$Cool dude emoticon (MSN)
+1
+43
+K)
+2
+95
+$Kiss (MSN)
+1
+44
+L)
+2
+95
+$Love heart (MSN)
+1
+46
+N)
+2
+95
+$Thumbs down (MSN)
+1
+51
+S)
+2
+95
+$Seriously
+1
+53
+U)
+2
+95
+$Heartbroken
+1
+57
+Y
+2
+9
+)
+3
+95
+$Thumbs up (MSN)
+2
+46
+N)
+3
+95
+$Fingers crossed (MSN)
+1
+62
+^^^)
+2
+95
+$Shark
+1
+63
+_8^(I)
+2
+95
+$Homer Simpson
+1
+91
+{)(})
+2
+95
+$Two People Hugging
+0
+10
+*
+1
+4
+$
+2
+4
+$
+3
+95
+$Starbucks
+2
+95
+$Starbucks
+1
+14
+.*
+2
+95
+$Every file on a computer
+1
+28
+<:-)
+2
+95
+$Clown
+1
+39
+G*
+2
+95
+$Grin
+1
+40
+HUG*
+2
+95
+$A Cyberhug
+1
+47
+O*
+2
+95
+$Confused| surprised| shocked
+1
+51
+S*
+2
+95
+$Salute
+1
+60
+\O/*
+2
+95
+$Cheerleader
+1
+63
+_*
+2
+95
+$In love| dazed
+1
+95
+$Indicating a spelling correction
+0
+11
++
+1
+17
+1
+2
+95
+$Partner |Me too
+1
+50
+REP
+2
+95
+$Boost reputation
+1
+63
+_+
+2
+95
+$Dead man
+0
+13
+-
+1
+14
+.-
+2
+95
+$Annoyance
+1
+63
+_-
+2
+95
+$Annoyed| tired
+0
+14
+.
+1
+13
+-.
+2
+95
+$Sad| unhappy
+1
+14
+..
+2
+95
+$Silence| A Trailing Thought
+1
+18
+22
+2
+95
+$A handgun
+1
+20
+44
+2
+95
+$.44 Magnum
+1
+34
+BIZ
+2
+95
+$Top level domain for business
+1
+35
+CO
+2
+45
+M
+3
+95
+$commerce
+2
+95
+$Alternative to .COM
+1
+37
+EDU
+2
+95
+$education
+1
+39
+GOV
+2
+95
+$governments
+1
+45
+MIL
+2
+95
+$military
+1
+46
+NET
+2
+95
+$network providers
+1
+47
+ORG
+2
+95
+$non-profit organizations
+1
+63
+_.
+2
+95
+$Emoticon Representing Apathy
+0
+15
+/
+1
+14
+.\
+2
+95
+$Shy| Ashamed
+1
+15
+/
+2
+95
+$Love| I love you
+1
+26
+:)
+2
+95
+$Flirtation |Sign Of Suspicion
+1
+34
+B/
+2
+95
+$4chan's random image board
+1
+47
+O
+2
+15
+/
+3
+95
+$Happy| arms in the air
+2
+60
+\
+3
+95
+$Frustrated| hands on head
+1
+50
+R/
+2
+95
+$Requesting
+1
+51
+S
+2
+95
+$Sarcasm
+1
+52
+THREAD
+2
+95
+$End of a thread on a forum
+1
+55
+W
+2
+95
+$Whisper
+0
+16
+0
+1
+14
+.
+2
+16
+0
+3
+95
+$Surprise
+2
+47
+O
+3
+95
+$Raised eyebrow
+1
+15
+/
+2
+95
+$Waving
+1
+63
+_0
+2
+95
+$Shocked
+0
+17
+1
+1
+16
+0
+2
+13
+-
+3
+17
+1
+4
+95
+$Radio code for 'Receiving poorly'
+3
+18
+2
+4
+95
+$Radio code for 'Receiving well'
+3
+20
+4
+4
+95
+$Understood, OK
+2
+35
+CHAR
+3
+95
+$Padding where at least 10 characters are required
+2
+49
+Q
+3
+95
+$Thank you
+2
+56
+X
+3
+95
+$Thanks
+1
+33
+AAT
+2
+95
+$One At A Time
+1
+36
+D
+2
+95
+$One Direction (band)
+1
+53
+UP
+2
+95
+$Extra life in a game
+0
+18
+2
+1
+20
+4/7
+2
+95
+$Twenty-four hours a day, seven days a week
+1
+34
+B
+2
+40
+H
+3
+95
+$To Be Honest
+2
+95
+$To Be
+1
+36
+DAY
+2
+95
+$Today
+1
+37
+EZ
+2
+95
+$Too Easy
+1
+39
+G
+2
+18
+2BT
+3
+95
+$Too Good To Be True
+2
+95
+$Too Good
+1
+43
+K
+2
+17
+10
+3
+95
+$2010
+2
+20
+4U
+3
+95
+$To Cool For You
+2
+25
+9
+3
+95
+$2009
+1
+44
+L8
+2
+95
+$Too late
+1
+45
+M
+2
+41
+I
+3
+95
+$Too Much Information
+2
+45
+M
+3
+95
+$Tomorrow
+2
+47
+O
+3
+50
+RO
+4
+95
+$Tomorrow
+3
+58
+Z
+4
+95
+$Tomorrow
+2
+50
+R
+3
+47
+O
+4
+95
+$Tomorrow
+3
+55
+W
+4
+95
+$Tomorrow
+2
+95
+$Tomorrow
+1
+46
+N
+2
+41
+ITE
+3
+95
+$Tonight
+2
+57
+YT
+3
+95
+$Tonight
+1
+53
+U
+2
+18
+2
+3
+95
+$To You Too
+2
+95
+$To You
+1
+95
+$To
+0
+19
+3
+1
+16
+0STM
+2
+95
+$30 Seconds To Mars (band)
+1
+30
+>
+2
+95
+$Hate
+1
+36
+DG
+2
+95
+$Three Days Grace (band)
+1
+39
+G
+2
+95
+$Third Generation mobile phone network
+1
+49
+Q
+2
+95
+$Thank You
+0
+20
+4
+1
+15
+/20
+2
+95
+$April 20th| WEED smoking day
+1
+16
+01K
+2
+95
+$Retirement investment plan
+1
+35
+C
+2
+40
+HAN
+3
+95
+$Internet message/image board
+2
+47
+OL
+3
+95
+$For Crying Out Loud
+1
+37
+E
+2
+20
+4
+3
+95
+$Forever
+2
+54
+V
+3
+33
+A
+4
+95
+$Forever
+3
+37
+ER
+4
+95
+$Forever
+1
+39
+G
+2
+37
+ET
+3
+95
+$Forget
+2
+45
+M
+3
+95
+$Forgive me
+2
+95
+$4th Generation
+1
+45
+M
+2
+95
+$Forum
+1
+50
+RL?
+2
+95
+$For Real?
+1
+51
+S
+2
+40
+HO
+3
+95
+$For Sure
+2
+50
+RS
+3
+95
+$For Serious?
+1
+52
+TW
+2
+95
+$For The Win
+1
+53
+U
+2
+95
+$For You
+1
+55
+WD
+2
+95
+$Four-Wheel Drive
+1
+56
+X4
+2
+95
+$Four wheel drive vehicle
+1
+57
+YEO
+2
+95
+$For Your Eyes Only
+0
+21
+5
+1
+0
+ 
+2
+34
+BY 5
+3
+95
+$Loud and clear, fine
+2
+40
+HOLE
+3
+95
+$Gap between goalie's legs in hockey
+1
+37
+EVER
+2
+95
+$Because Forever Isn't Long Enough| Longer Than 4ever
+1
+46
+N
+2
+95
+$Fine
+1
+56
+X5
+2
+95
+$Loud and Clear
+0
+22
+6_6
+1
+95
+$Looking down| Suspicious
+0
+23
+7DAW
+1
+95
+$Seven Days A Week
+0
+24
+8
+1
+9
+)
+2
+95
+$Cool
+1
+10
+*
+2
+95
+$Kiss
+1
+13
+-
+2
+9
+)
+3
+95
+$Cool 
+2
+92
+|
+3
+95
+$Nerdy 
+1
+16
+0S
+2
+95
+$The Eighties| 1980s
+1
+29
+===
+2
+29
+=D
+3
+95
+$Penis
+2
+36
+D
+3
+95
+$A Penis
+1
+34
+BALL
+2
+95
+$1/8 ounce of cocaine
+1
+36
+D
+2
+95
+$Manic
+1
+92
+|
+2
+95
+$Balls To The Wall
+0
+25
+9
+1
+42
+JA
+2
+95
+$Nigeria
+1
+63
+_9
+2
+95
+$Rolling the eyes
+0
+26
+:
+1
+4
+$
+2
+95
+$Embarrassed
+1
+6
+&
+2
+95
+$Tongue tied| speechless
+1
+7
+'
+2
+8
+(
+3
+95
+$Crying
+2
+9
+)
+3
+95
+$Crying with joy
+1
+8
+(
+2
+26
+:)
+3
+95
+$Pig
+2
+92
+|)
+3
+95
+$Monkey
+2
+95
+$Unhappy| sad
+1
+9
+)
+2
+95
+$Happy
+1
+10
+*
+2
+95
+$Kiss
+1
+13
+-
+2
+8
+(
+3
+95
+$Sad
+2
+9
+)
+3
+95
+$Smile
+2
+10
+*
+3
+95
+$Kiss
+2
+36
+D
+3
+95
+$Laughing| Big Smile
+2
+48
+P
+3
+95
+$Sticking Their Tongue Out
+1
+15
+/
+2
+95
+$Sarcasm
+1
+16
+0
+2
+95
+$Surprised| shocked
+1
+19
+3
+2
+95
+$Cute| goofy face
+1
+25
+9
+2
+95
+$Yum| licking
+1
+28
+<
+2
+95
+$Sad| frowning
+1
+30
+>
+2
+95
+$Mischievous smile
+1
+31
+?
+2
+95
+$Confused
+1
+32
+@
+2
+95
+$Angry
+1
+34
+B
+2
+95
+$Buck teeth
+1
+35
+C
+2
+95
+$Very Sad
+1
+36
+D
+2
+36
+D
+3
+95
+$Very happy
+2
+95
+$Happy
+1
+38
+F
+2
+95
+$Drooling
+1
+42
+J
+2
+95
+$Smirk
+1
+43
+K
+2
+95
+$Vampire teeth| Snake's tongue
+1
+44
+L
+2
+95
+$Laughing
+1
+47
+O
+2
+9
+)
+3
+95
+$Clown nose smiley face
+2
+95
+$Surprised
+1
+48
+P
+2
+95
+$Sticking tongue out
+1
+49
+Q
+2
+95
+$Smoking
+1
+51
+S
+2
+95
+$Confused
+1
+52
+T
+2
+95
+$Side smile
+1
+56
+X
+2
+95
+$Zipped lips
+1
+59
+[
+2
+95
+$Sad| Vampire
+1
+60
+\
+2
+95
+$Emoticon Meaning Confusion
+1
+61
+]
+2
+95
+$Happy
+1
+91
+{)
+2
+95
+$Happy with a moustache
+1
+92
+|
+2
+95
+$Disgust| disapproval| not funny
+0
+27
+;
+1
+8
+(
+2
+95
+$Crying
+1
+9
+)
+2
+95
+$Wink
+1
+13
+-)
+2
+95
+$Wink
+1
+27
+;
+2
+95
+$Sad| Confused
+1
+36
+D
+2
+95
+$Wink
+1
+47
+O
+2
+95
+$Joking
+1
+48
+P
+2
+27
+;
+3
+95
+$Misspelling of LOL
+2
+95
+$Winking and sticking tongue out
+0
+28
+<
+1
+3
+#
+2
+95
+$Misspelling of <3
+1
+14
+.<
+2
+95
+$Shifty look
+1
+15
+/3
+2
+95
+$Broken Hearted
+1
+18
+2
+2
+95
+$Not quite love (<3)
+1
+19
+3
+2
+19
+33
+3
+95
+$Multiple hearts
+2
+53
+U
+3
+95
+$Love You
+2
+95
+$Love (heart shape)
+1
+20
+4
+2
+95
+$More than love (<3)
+1
+30
+>
+2
+28
+<
+3
+95
+$Fish
+2
+95
+$Not equal| No comment
+1
+34
+B
+2
+95
+$Hate
+1
+39
+G>
+2
+95
+$Grin
+1
+63
+_<
+2
+95
+$Sarcasm| look left
+0
+29
+=
+1
+9
+)
+2
+95
+$Happy
+1
+10
+*
+2
+95
+$Kiss
+1
+14
+.=
+2
+95
+$Tired
+1
+15
+/=
+2
+95
+$Not equal to
+1
+16
+0
+2
+95
+$Surprised| shocked
+1
+19
+3
+2
+95
+$Cute| goofy face
+1
+36
+D
+2
+95
+$:D
+1
+38
+F
+2
+95
+$Vampire
+1
+41
+I
+2
+95
+$Indifference
+1
+48
+P
+2
+95
+$Sticking tongue out
+1
+51
+S
+2
+95
+$Confused
+1
+55
+W=
+2
+95
+$Weezer (band)
+1
+56
+X
+2
+95
+$No Comment
+1
+59
+[
+2
+95
+$Sad
+1
+61
+]
+2
+95
+$Happy
+1
+95
+$Equals| Complete Transformation
+0
+30
+>
+1
+12
+,<
+2
+95
+$Angry| annoyed
+1
+14
+.
+2
+28
+<
+3
+95
+$Frustrated| angry| upset| in pain
+2
+30
+>
+3
+95
+$Suspicious| wary
+1
+15
+//<
+2
+95
+$Embarrassed| blushing
+1
+19
+3
+2
+95
+$Evil but happy|Hate
+1
+26
+:
+2
+8
+(
+3
+95
+$Angry
+2
+9
+)
+3
+95
+$Evil Grin
+2
+36
+D
+3
+28
+<
+4
+95
+$Hug
+3
+95
+$Scheming| Maniacal
+2
+47
+O
+3
+95
+$Angry
+1
+28
+<
+2
+95
+$Frustration
+1
+47
+O<
+2
+95
+$Yelling
+1
+63
+_
+2
+28
+<
+3
+95
+$Frustrated
+2
+30
+>
+3
+95
+$Looking left| shifty look
+0
+31
+?
+1
+20
+4U
+2
+95
+$Question For You
+1
+31
+?
+2
+95
+$What?
+1
+63
+_?
+2
+95
+$Confused| lost
+0
+32
+@
+1
+14
+.@
+2
+95
+$Confused| surprised
+1
+32
+@@
+2
+95
+$Warning of parents nearby
+1
+63
+_@
+2
+95
+$Hypnotized| dazed
+1
+93
+}--->----
+2
+95
+$A rose
+1
+95
+$At
+0
+33
+A
+1
+6
+&
+2
+37
+E
+3
+95
+$Accident & Emergency
+2
+38
+F
+3
+95
+$Always And Forever| Abercrombie & Fitch
+2
+50
+R
+3
+95
+$Artists & Repertoire
+1
+15
+/
+2
+46
+N
+3
+95
+$Author's Note
+2
+55
+W
+3
+95
+$Anyway
+1
+17
+1
+2
+95
+$Top quality
+1
+18
+2DP
+2
+95
+$Advanced Audio Distribution Profile
+1
+19
+3
+2
+95
+$Anywhere, Any time, Any place
+1
+23
+7
+2
+33
+A
+3
+95
+$Frusration, anger
+2
+56
+X
+3
+95
+$Avenged Sevenfold (band)
+1
+33
+A
+2
+33
+A
+3
+95
+$American Automobile Association| Battery size
+2
+34
+B
+3
+95
+$Average At Best
+2
+35
+C
+3
+95
+$Apple Audio Compression
+2
+38
+F
+3
+95
+$Always and Forever
+2
+43
+K
+3
+95
+$Alive And Kicking
+2
+45
+MOF
+3
+95
+$As A Matter Of Fact
+2
+48
+P
+3
+95
+$Always A Pleasure
+2
+50
+R
+3
+48
+P
+4
+95
+$American Association of Retired Persons
+3
+95
+$At Any Rate
+2
+52
+T
+3
+95
+$And Another Thing| At All Times
+2
+55
+WY
+3
+95
+$And Also With You
+2
+57
+YF
+3
+95
+$As Always, Your Friend
+2
+95
+$Alcoholics Anonymous| African-American| Automobile Association
+1
+34
+B
+2
+34
+BR
+3
+95
+$Abbreviation
+2
+35
+C
+3
+95
+$American Born Chinese
+2
+36
+D
+3
+35
+C
+4
+95
+$America's Best Dance Crew (TV show)
+3
+95
+$Already Been Done
+2
+38
+F
+3
+33
+AB
+4
+95
+$Absolutely Fabulous
+3
+95
+$All But Face
+2
+39
+G
+3
+95
+$Asian Baby Girl
+2
+40
+H
+3
+95
+$Actual Bodily Harm
+2
+47
+O
+3
+95
+$Aborigine
+2
+48
+P
+3
+95
+$Already Been Posted
+2
+51
+S
+3
+95
+$Absolutely
+2
+52
+T
+3
+18
+2
+4
+95
+$About To
+3
+95
+$About
+2
+53
+U
+3
+95
+$Anyone but Manchester United
+1
+35
+C
+2
+15
+/DC
+3
+95
+$Rock Band
+2
+33
+APELLA
+3
+95
+$Vocal music without instruments
+2
+35
+C
+3
+52
+T
+4
+95
+$Account
+3
+95
+$Actually
+2
+37
+E
+3
+95
+$Excellent| great
+2
+41
+ID
+3
+95
+$LSD
+2
+43
+K
+3
+95
+$Disgust| frustration| Acknowledgement
+2
+44
+LU
+3
+95
+$American Civil Liberties Union
+2
+45
+ME
+3
+95
+$A Company that Makes Everything
+2
+48
+P
+3
+95
+$Automatic Colt Pistol
+2
+52
+T
+3
+33
+A
+4
+95
+$Anti-Counterfeiting Trade Agreement
+3
+95
+$SAT type test
+2
+53
+U
+3
+95
+$Army Combat Uniform
+2
+95
+$Air Conditioning| Alternating Current
+1
+36
+D
+2
+0
+ HOC
+3
+95
+$For the specific purpose| Improvised| impromptu
+2
+33
+AD
+3
+95
+$Another Day Another Dollar
+2
+36
+D
+3
+57
+Y
+4
+95
+$Address
+3
+95
+$Attention Deficit Disorder
+2
+37
+E
+3
+36
+D
+4
+95
+$All Day Every Day
+3
+50
+ROL
+4
+95
+$Drug that helps you focus
+2
+39
+GTH
+3
+95
+$All Dogs Go To Heaven
+2
+40
+HD
+3
+95
+$Attention Deficit Hyperactivity Disorder
+2
+44
+L
+3
+95
+$All Day Long
+2
+45
+M
+3
+41
+IN
+4
+95
+$Administrator on forum, network etc
+3
+95
+$Ay Dios Mio| OMG
+2
+46
+N
+3
+95
+$Any Day Now
+2
+47
+ORBS
+3
+95
+$Adorable
+2
+50
+R
+3
+95
+$All Due Respect
+2
+51
+S
+3
+44
+L
+4
+95
+$Asymmetric Digital Subscriber Line
+3
+95
+$Aim Down Sights
+2
+52
+TR
+3
+95
+$A Day To Remember (band)
+2
+95
+$Anno Domini
+1
+37
+E
+2
+33
+A
+3
+37
+E
+4
+95
+$And Ever And Ever
+3
+48
+P
+4
+95
+$As Early As Possible
+2
+95
+$American Eagle
+1
+38
+F
+2
+33
+A
+3
+41
+I
+4
+33
+A
+5
+33
+A
+6
+95
+$As Far As I Am Aware
+5
+35
+C
+6
+95
+$As Far As I Am Concerned
+5
+95
+$As Far As I'm Aware
+4
+35
+C
+5
+51
+S
+6
+95
+$As Far As I Can See
+5
+52
+T
+6
+95
+$As Far As I Can Tell
+5
+95
+$As Far As I'm Concerned
+4
+43
+K
+5
+95
+$As Far As I Know
+4
+50
+R
+5
+95
+$As Far As I Remember
+3
+48
+P
+4
+95
+$As Far As Possible
+2
+35
+C
+3
+95
+$Away From Computer
+2
+38
+F
+3
+33
+A
+4
+95
+$Angels Forever, Forever Angels
+3
+95
+$Affirmative
+2
+41
+I
+3
+95
+$A Fire Inside (Band)
+2
+43
+K
+3
+95
+$Away From Keyboard
+2
+44
+L
+3
+95
+$Australian Football League
+2
+46
+N
+3
+95
+$All For Now
+2
+48
+P
+3
+95
+$Away From Phone
+2
+50
+R
+3
+44
+L
+4
+95
+$Away From Real Life
+3
+47
+O
+4
+95
+$Hairstyle from Africa
+2
+51
+S
+3
+95
+$Always, Forever and Seriously
+2
+95
+$As Fuck
+1
+39
+G
+2
+35
+C
+3
+95
+$Automatic Gain Control
+2
+39
+G
+3
+57
+Y
+4
+95
+$Aggitated
+3
+95
+$Cool
+2
+40
+H
+3
+95
+$Ain't Gonna Happen
+2
+45
+M
+3
+95
+$Annual General Meeting
+2
+48
+P
+3
+95
+$Accelerated Graphics Port
+2
+50
+RO
+3
+95
+$Aggravation
+2
+52
+T
+3
+95
+$America's Got Talent (TV show)
+2
+55
+W
+3
+95
+$All Going Well
+2
+95
+$Aggressive
+1
+40
+H
+2
+33
+A
+3
+95
+$discovery| realization
+2
+37
+EM
+3
+95
+$Throat clearing sound
+2
+47
+O
+3
+95
+$Idiot
+2
+52
+T
+3
+95
+$Out
+1
+41
+I
+2
+34
+B
+3
+95
+$Am I Boverd?
+2
+36
+DS
+3
+95
+$Acquired Immune Deficiency Syndrome
+2
+39
+G
+3
+38
+F
+4
+95
+$All In Good Fun
+3
+40
+HT
+4
+95
+$All right
+2
+41
+I
+3
+35
+C
+4
+95
+$As If I Care
+3
+52
+T
+4
+95
+$Alright
+3
+95
+$Alright
+2
+43
+KRN
+3
+95
+$All I know right now
+2
+45
+M
+3
+34
+BOT
+4
+95
+$Trageting script in games
+3
+40
+H
+4
+95
+$Always In My Heart
+3
+47
+O
+4
+95
+$Idiot
+3
+95
+$AOL Instant Messanger
+2
+46
+N
+3
+7
+'T
+4
+95
+$Am not| are not| is not
+3
+37
+EC
+4
+95
+$And It's Not Even Close
+3
+52
+T
+4
+95
+$Am not| are not| is not
+2
+47
+O
+3
+95
+$All In One
+2
+50
+R
+3
+40
+HEAD
+4
+95
+$Stupid person
+3
+95
+$Blanked| ignored
+2
+51
+S
+3
+34
+B
+4
+95
+$As I Said Before
+3
+41
+I
+4
+95
+$As I See it
+2
+52
+T
+3
+37
+E
+4
+95
+$Alright
+3
+50
+R
+4
+95
+$Adult In The Room
+3
+57
+YD
+4
+95
+$And I Think You Do
+3
+95
+$Alright
+2
+53
+UI
+3
+95
+$As I Understand it
+2
+57
+Y
+3
+33
+A
+4
+95
+$Cantonese expression of exasperation
+3
+35
+C
+4
+95
+$As If You Care
+2
+95
+$Artificial Intelligence|As If
+1
+42
+J
+2
+95
+$Apple Juice
+1
+43
+K
+2
+20
+47
+3
+95
+$Assault rifle
+2
+33
+A
+3
+95
+$Also Known As
+2
+41
+I
+3
+95
+$Autumn| fall
+2
+45
+ML
+3
+95
+$Avada Kedavra My Life (Harry Potter)
+2
+51
+S
+3
+95
+$Ask
+2
+52
+TF
+3
+95
+$Always Keep the Faith
+2
+95
+$AK-47 Assault Rifle| Alaska
+1
+44
+L
+2
+33
+A
+3
+48
+P
+4
+95
+$As Long As Possible
+3
+51
+S
+4
+95
+$regret| sorrow
+3
+95
+$In the style of
+2
+35
+C
+3
+40
+HY
+4
+95
+$Alcoholic
+3
+47
+O
+4
+95
+$Alcoholic
+2
+38
+F
+3
+95
+$Animal Liberation Front
+2
+39
+G
+3
+95
+$Ain't Life Grand
+2
+41
+I
+3
+37
+E
+4
+95
+$Init
+3
+40
+HAL
+4
+95
+$At Least I Have A Life
+3
+95
+$Best Friend
+2
+43
+K
+3
+49
+QN
+4
+95
+$Almighty Latin King and Queen Nation
+3
+95
+$Alcohol
+2
+44
+L
+3
+13
+- NIGHTER
+4
+95
+$Stay Up All Night
+3
+47
+OW
+4
+95
+$Let it be| forget it
+2
+47
+O
+3
+44
+L
+4
+95
+$Actually Laughing Out Loud
+3
+52
+TBSOL
+4
+95
+$Always Look On The Bright Side Of Life
+2
+48
+PHA
+3
+95
+$Head person of a group
+2
+50
+RATO
+3
+95
+$Later
+2
+52
+T
+3
+95
+$Alternative character in RPG
+2
+53
+U
+3
+95
+$Arithmetic Logic Unit
+2
+54
+V
+3
+95
+$Asta La Vista| goodbye
+2
+55
+WP
+3
+95
+$Actual Laughter Was Produced
+2
+95
+$Alcohol
+1
+45
+M
+2
+33
+A
+3
+48
+P
+4
+95
+$As Much As Possible
+3
+95
+$Ask Me Anything
+2
+35
+C
+3
+95
+$American Motors Corportation
+2
+36
+D
+3
+95
+$Advanced Micro Devices
+2
+37
+EX
+3
+95
+$American Express
+2
+39
+G
+3
+95
+$Ah My God
+2
+41
+I
+3
+39
+GO
+4
+95
+$Friend
+3
+50
+RITE
+4
+95
+$Am I Right?
+2
+44
+L
+3
+95
+$All My Love
+2
+46
+N
+3
+95
+$Any Minute Now
+2
+47
+O
+3
+38
+F
+4
+95
+$As a Matter of Fact
+3
+39
+G
+4
+95
+$Alpha Male Of Group
+2
+48
+P
+3
+37
+ED
+4
+95
+$Excited| fired up
+3
+95
+$Amplifier| Ampere
+2
+52
+T
+3
+50
+RAK
+4
+95
+$American passenger railroad corporation
+3
+95
+$Alpha-Methyltryptamine
+2
+54
+V
+3
+95
+$Anime Music Video
+2
+55
+W
+3
+95
+$America's Most Wanted (TV show)
+2
+58
+Z
+3
+95
+$Amazing
+1
+46
+N
+2
+35
+C
+3
+95
+$African National Congress
+2
+38
+F
+3
+33
+AWFOS
+4
+95
+$And Now For A Word From Our Sponsor
+3
+51
+SCD
+4
+95
+$And Now For Something Completely Different
+3
+95
+$Abercrombie & Fitch
+2
+41
+IME
+3
+95
+$Japanese style animation
+2
+47
+O
+3
+46
+N
+4
+95
+$Unknown person
+3
+95
+$Anorexic
+2
+51
+S
+3
+41
+I
+4
+95
+$American National Standards Institute
+3
+95
+$Answer
+2
+52
+T
+3
+41
+I
+4
+95
+$Against
+3
+45
+M
+4
+95
+$America's Next Top Model
+2
+57
+Y
+3
+17
+1
+4
+95
+$Anyone
+3
+55
+WHO
+4
+95
+$Anyhow
+2
+58
+ZAC
+3
+95
+$Australian and New Zealand Army Corps
+1
+47
+O
+2
+34
+B
+3
+95
+$Any Other Business
+2
+36
+D
+3
+95
+$All Of Day
+2
+37
+E
+3
+95
+$Area Of Effect
+2
+43
+K
+3
+95
+$Age of Kings (game)| All OK
+2
+44
+L
+3
+95
+$American Online
+2
+45
+M
+3
+95
+$Age of Mythology (game)
+2
+46
+N
+3
+95
+$All Or Nothing| As Of Now
+2
+51
+S
+3
+95
+$Ahead Of Schedule
+2
+52
+T
+3
+33
+A
+4
+95
+$All Of The Above
+3
+51
+S
+4
+95
+$Attack of the Show (TV show)
+3
+95
+$As Opposed To| Among Other Things
+2
+55
+W
+3
+95
+$All Out War
+2
+57
+YP
+3
+95
+$Angel on Your Pillow
+2
+95
+$Adults Only
+1
+48
+P
+2
+34
+B
+3
+95
+$All Points Bulletin
+2
+35
+C
+3
+95
+$Armoured Personnel Carrier
+2
+37
+E
+3
+95
+$Mad| crazy
+2
+41
+I
+3
+95
+$Application Programming Interface
+2
+45
+M
+3
+95
+$Actions Per Minute
+2
+46
+N
+3
+95
+$As Per Normal
+2
+47
+O
+3
+95
+$Authorized Personnel Only
+2
+48
+P
+3
+50
+ROX
+4
+95
+$Approximately
+3
+51
+S
+4
+95
+$Applications (software)
+3
+95
+$Application (computer program)
+2
+50
+R
+3
+95
+$Annual Percentage Rate
+2
+52
+T
+3
+95
+$Apartment
+2
+53
+U
+3
+95
+$As Per Usual
+2
+57
+YR
+3
+95
+$As Per Your Request
+2
+95
+$Associated Press
+1
+49
+Q
+2
+33
+AP
+3
+95
+$As Quickly As Possible
+2
+38
+F
+3
+95
+$Ay Que Funny| LOL
+2
+95
+$Adventure Quest (game)
+1
+50
+R
+2
+36
+D
+3
+95
+$Alright
+2
+37
+EA 51
+3
+95
+$Top secret military base in Nevada
+2
+38
+F
+3
+95
+$Laugh
+2
+39
+G
+3
+40
+H
+4
+95
+$frustration| anger
+3
+95
+$Alternate Reality Gaming
+2
+41
+IGATO
+3
+95
+$Thank You
+2
+43
+K
+3
+95
+$Act of Random Kindness
+2
+48
+P
+3
+33
+A
+4
+46
+NET
+5
+95
+$Advanced Research Projects Agency Network
+4
+95
+$Advanced Research Projects Agency
+3
+53
+U
+4
+95
+$Average Revenue Per User
+2
+52
+T
+3
+95
+$Alright
+2
+54
+VO
+3
+95
+$Afternoon
+2
+95
+$Assault Rifle
+1
+51
+S
+2
+33
+A
+3
+41
+I
+4
+35
+C
+5
+95
+$As Soon As I Can
+4
+43
+K
+5
+95
+$As Soon As I Know
+3
+48
+P
+4
+95
+$As Soon As Possible
+3
+51
+S
+4
+95
+$As Soon As Sensible
+3
+52
+T
+4
+95
+$As Simple As That
+3
+57
+YC
+4
+95
+$As Soon As You Can
+3
+95
+$And So On
+2
+34
+BO
+3
+95
+$Anti Social Behaviour Order
+2
+35
+CII
+3
+95
+$American Standard Code for Information Interchange
+2
+36
+D
+3
+38
+FGHJKL
+4
+27
+;
+5
+7
+'
+6
+95
+$When A Feeling Cannot Be Expressed In Words| Home Keys On Standard Keyboard
+5
+95
+$I'm bored
+4
+95
+$Excitement| Frustration| Boredom
+3
+95
+$Sequence of letters on many keyboards
+2
+38
+F
+3
+95
+$And So Forth
+2
+39
+G
+3
+95
+$Asgarv| LOL
+2
+41
+IC
+3
+95
+$Application Specific Integrated Circuit
+2
+44
+L
+3
+48
+P
+4
+95
+$Age, Sex, Location, Picture?
+3
+95
+$Age, Sex, Location
+2
+45
+M
+3
+95
+$Assembly computer language
+2
+46
+N
+3
+95
+$Any Second Now
+2
+47
+O
+3
+95
+$I see
+2
+48
+P
+3
+35
+CA
+4
+95
+$American Society for the Prevention of Cruelty to Animals
+3
+95
+$At Some Point
+1
+52
+T
+2
+6
+&T
+3
+95
+$American Telephone & Telegraph
+2
+33
+A
+3
+48
+P
+4
+95
+$Any Time, Any Place
+3
+95
+$Actual Time of Arrival
+2
+34
+B
+3
+95
+$All The Best
+2
+35
+C
+3
+95
+$Air Traffic Control
+2
+36
+D
+3
+95
+$Attention to Detail
+2
+37
+EOTD
+3
+95
+$At The End Of The Day
+2
+38
+F
+3
+95
+$All Time Favorite
+2
+39
+GATT
+3
+95
+$All The Gear All The Time
+2
+40
+H
+3
+95
+$All Time High
+2
+41
+I
+3
+95
+$Array Technology Inc.
+2
+43
+K
+3
+95
+$Attack
+2
+44
+L
+3
+95
+$Atlanta, Georgia
+2
+45
+M
+3
+47
+O
+4
+95
+$According To My Opinion
+3
+95
+$At The Moment| Automated Teller Machine
+2
+46
+N
+3
+95
+$Any Time Now
+2
+47
+OY
+3
+95
+$Always Thinking of you
+2
+49
+Q
+3
+95
+$Answer The Question
+2
+51
+ST
+3
+95
+$At The Same Time
+2
+52
+T
+3
+46
+N
+4
+95
+$Attention
+3
+52
+T
+4
+95
+$Ain't That The Truth
+3
+57
+Y
+4
+95
+$Atomizer from electronic cigarette
+3
+95
+$At This Time| All The Time
+2
+54
+V
+3
+34
+B
+4
+95
+$All The Very Best
+3
+95
+$All Terrain Vehicle
+2
+55
+W
+3
+33
+A
+4
+95
+$Air, Trees, Water, Animals| All The Way Alive
+3
+95
+$All The Way
+2
+56
+X
+3
+95
+$Austin, Texas
+2
+57
+YS
+3
+95
+$Anything You Say
+1
+53
+U
+2
+36
+D
+3
+95
+$Australian Dollar
+2
+47
+O
+3
+95
+$I don't know
+2
+48
+P
+3
+95
+$Another Useless Post| Acceptable Use Policy
+2
+51
+S
+3
+51
+SIE
+4
+95
+$A Person From Australia
+3
+95
+$Are You Serious?
+2
+95
+$Alternate Universe| Gold
+1
+54
+V
+2
+33
+A
+3
+95
+$Angels and Airwaves (Band)
+2
+39
+G
+3
+46
+N
+4
+95
+$Angry Video Game Nerd
+3
+95
+$Average
+2
+41
+I
+3
+95
+$Audio Video Interleaved (media format)
+2
+47
+O
+3
+95
+$Afternooon
+2
+48
+PM
+3
+95
+$A Very Potter Musical
+2
+95
+$Anti-Virus| Audio/Video| Adult Video
+1
+55
+W
+2
+33
+A
+3
+95
+$As Well As
+2
+36
+D
+3
+95
+$All Wheel Drive
+2
+37
+ESOME
+3
+95
+$Amazing| wonderful| cool
+2
+40
+HFY
+3
+95
+$Are We Having Fun Yet
+2
+43
+K
+3
+51
+S
+4
+95
+$Awkward
+3
+57
+Y
+4
+95
+$Awkward
+3
+95
+$Awkward
+2
+46
+NP
+3
+95
+$All Work, No Play
+2
+47
+OL
+3
+95
+$Absent Without Leave
+2
+48
+P
+3
+95
+$Arctic Warfare Police sniper rifle
+2
+51
+S
+3
+45
+M
+4
+95
+$Awesome
+3
+95
+$As We Speak
+2
+55
+W
+3
+95
+$Cute
+1
+56
+X
+2
+95
+$Ask
+1
+57
+Y
+2
+34
+B
+3
+33
+ABTU
+4
+95
+$All Your Base Are Belong To Us
+3
+50
+RB2U
+4
+95
+$All Your Base Are Belong To Us
+3
+95
+$All Your Base
+2
+35
+C
+3
+51
+S
+4
+95
+$As You Can See
+3
+95
+$At Your Convenience
+2
+37
+E
+3
+35
+C
+4
+95
+$At Your Earliest Convenience
+3
+95
+$Yes
+2
+38
+F
+3
+50
+R
+4
+95
+$Are You For Real?
+3
+52
+T
+4
+95
+$Are You Free Today?
+2
+43
+K
+3
+45
+M
+4
+95
+$Are You Kidding Me?
+3
+95
+$As You Know
+2
+44
+L
+3
+95
+$Are You Listening?
+2
+47
+O
+3
+50
+R
+4
+95
+$At Your Own Risk
+3
+95
+$Hey, You
+2
+48
+PI
+3
+95
+$And Your Point Is?
+2
+50
+R
+3
+52
+TON
+4
+95
+$Tenner| ten pounds
+3
+95
+$Are You Ready?
+2
+51
+S
+3
+47
+OS
+4
+95
+$Are You Stupid Or Something?
+3
+95
+$Are You Serious?
+2
+52
+T
+3
+95
+$Are You There?
+2
+55
+W
+3
+95
+$As You Wish
+2
+57
+YO
+3
+95
+$Hi, hello
+1
+58
+ZN
+2
+95
+$Asian
+1
+71
+gainst Medical Advice

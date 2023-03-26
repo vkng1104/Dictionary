@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>search_window</class>
+ <widget class="QMainWindow" name="search_window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Search window</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#centralwidget{
+	background-color: #e6ccff;
+}
+#label_search{
+	font-family: &quot;Colonna MT&quot;;
+	font-weight: bold;
+	font-size: 30px;
+}
+#radioButton_def, #radioButton_word, #radioButton_SlangEmo, #checkBox_Viet, #checkBox_Eng, #lineSearch{
+	font-family: &quot;Colonna MT&quot;;
+	font-weight: bold;
+	font-size: 20px;
+}
+#frame{
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	border-radius:10px;
+}
+#pushButton{
+	padding: 5px;
+}
+#listWidget{
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+	border-radius:10px;
+	padding: 3px;
+}
+
+#frame_2, #frame_3, #frame_search{
+	background-color: #c180ff;
+	border-width: 2px;
+	border-style: solid;
+}
+#lineSearch{
+	background-color: #c180ff;
+}
+
+#frame_s{
+	border-width: 3px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 15px;
+}
+
+#listWidget{
+	background-color: #fff3e6;
+	font-family: &quot;Colonna MT&quot;;
+	font-size: 20px;
+	color: black;	
+}</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout_4">
+    <item>
+     <widget class="QWidget" name="widget_4" native="true">
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QLabel" name="label_search">
+         <property name="text">
+          <string>Search your word</string>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignCenter</set>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame_2">
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QRadioButton" name="radioButton_word">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Word</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QRadioButton" name="radioButton_def">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Definition</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QRadioButton" name="radioButton_SlangEmo">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Slang/Emotional</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame_3">
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_6">
+          <item>
+           <widget class="QCheckBox" name="checkBox_Eng">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>English</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="checkBox_Viet">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Vietnamese</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame_search">
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout">
+          <item>
+           <widget class="QLabel" name="label">
+            <property name="text">
+             <string/>
+            </property>
+            <property name="pixmap">
+             <pixmap resource="sources.qrc">:/img/img/search.svg</pixmap>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QFrame" name="frame_s">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QHBoxLayout" name="horizontalLayout_3">
+             <property name="bottomMargin">
+              <number>9</number>
+             </property>
+             <item>
+              <widget class="QLineEdit" name="lineSearch">
+               <property name="frame">
+                <bool>false</bool>
+               </property>
+               <property name="placeholderText">
+                <string>Search something</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QPushButton" name="pushButton">
+            <property name="text">
+             <string>Find</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QListWidget" name="listWidget">
+         <property name="styleSheet">
+          <string notr="true">font: 12pt &quot;Segoe UI&quot;;</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::NoFrame</enum>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionAdd"/>
+   <addaction name="actionReset"/>
+   <addaction name="actionEdit"/>
+  </widget>
+  <action name="actionAdd">
+   <property name="icon">
+    <iconset resource="sources.qrc">
+     <normaloff>:/img/img/heart.svg</normaloff>:/img/img/heart.svg</iconset>
+   </property>
+   <property name="text">
+    <string>Add to favorite list</string>
+   </property>
+  </action>
+  <action name="actionReset">
+   <property name="icon">
+    <iconset resource="sources.qrc">
+     <normaloff>:/img/img/refresh-ccw.svg</normaloff>:/img/img/refresh-ccw.svg</iconset>
+   </property>
+   <property name="text">
+    <string>Reset</string>
+   </property>
+  </action>
+  <action name="actionEdit">
+   <property name="icon">
+    <iconset resource="sources.qrc">
+     <normaloff>:/img/img/edit-3.svg</normaloff>:/img/img/edit-3.svg</iconset>
+   </property>
+   <property name="text">
+    <string>Edit</string>
+   </property>
+   <property name="toolTip">
+    <string>Edit a word</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="sources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

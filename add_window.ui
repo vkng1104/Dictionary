@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Add_window</class>
+ <widget class="QMainWindow" name="Add_window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>Colonna MT</family>
+    <pointsize>18</pointsize>
+    <bold>false</bold>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Dictionary Management</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#groupBox, #frame_2, #frame{
+	border-width: 2px;
+	border-style: solid;
+}
+#centralwidget{
+	background-color: #e6ccff;
+}
+#frame_2, #frame{
+	background-color: #c180ff;
+}
+#lineEdit,  #plainTextEdit, #plainTextEdit_2{
+	background-color: #fff3e6;
+	font-family: &quot;Colonna MT&quot;;
+	font-size: 20px;
+	color: black;	
+}
+#groupBox{
+	background-color: #c180ff;
+}
+#RB_Remove, #RB_Add, #RB_Edit, #radioButton_word, #radioButton_SlangEmo, #checkBox_Viet, #checkBox_Eng{
+	font-family: &quot;Colonna MT&quot;;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#groupBox{
+	font-family: &quot;Colonna MT&quot;;
+	font-weight: bold;
+	font-size: 23px;
+}
+
+#editButton{
+	padding: 5px;
+	border-radius: 15px;
+	background-color: #fff3e6;
+	font-family: &quot;Colonna MT&quot;;
+	font-size: 22px;
+	color: black;	
+}
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QHBoxLayout" name="horizontalLayout_4">
+    <item>
+     <widget class="QWidget" name="widget_4" native="true">
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QLabel" name="label_add">
+         <property name="font">
+          <font>
+           <family>Colonna MT</family>
+           <pointsize>30</pointsize>
+          </font>
+         </property>
+         <property name="text">
+          <string>Dictionary Management</string>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignCenter</set>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame_2">
+         <property name="styleSheet">
+          <string notr="true"/>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_6">
+          <item>
+           <widget class="QRadioButton" name="RB_Add">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Add</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QRadioButton" name="RB_Edit">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Edit</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QRadioButton" name="RB_Remove">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="layoutDirection">
+             <enum>Qt::LeftToRight</enum>
+            </property>
+            <property name="text">
+             <string>Remove</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="frame">
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <widget class="QFrame" name="frame_3">
+            <property name="frameShape">
+             <enum>QFrame::StyledPanel</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <layout class="QHBoxLayout" name="horizontalLayout">
+             <property name="spacing">
+              <number>0</number>
+             </property>
+             <property name="leftMargin">
+              <number>0</number>
+             </property>
+             <property name="topMargin">
+              <number>0</number>
+             </property>
+             <property name="rightMargin">
+              <number>0</number>
+             </property>
+             <property name="bottomMargin">
+              <number>0</number>
+             </property>
+             <item>
+              <widget class="QRadioButton" name="radioButton_word">
+               <property name="font">
+                <font>
+                 <family>Colonna MT</family>
+                 <pointsize>-1</pointsize>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string>Word</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QRadioButton" name="radioButton_SlangEmo">
+               <property name="font">
+                <font>
+                 <family>Colonna MT</family>
+                 <pointsize>-1</pointsize>
+                 <bold>true</bold>
+                </font>
+               </property>
+               <property name="text">
+                <string>Slang/Emotional</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="lineEdit">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+             </font>
+            </property>
+            <property name="frame">
+             <bool>false</bool>
+            </property>
+            <property name="placeholderText">
+             <string>Type your word you want to manage</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QGroupBox" name="groupBox">
+         <property name="font">
+          <font>
+           <family>Colonna MT</family>
+           <pointsize>-1</pointsize>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="title">
+          <string>Definition</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_2">
+          <property name="topMargin">
+           <number>15</number>
+          </property>
+          <item row="0" column="0">
+           <widget class="QCheckBox" name="checkBox_Eng">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>English</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QCheckBox" name="checkBox_Viet">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+              <bold>true</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Vietnamese</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="0">
+           <widget class="QPlainTextEdit" name="plainTextEdit">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+             </font>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::NoFrame</enum>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QPlainTextEdit" name="plainTextEdit_2">
+            <property name="font">
+             <font>
+              <family>Colonna MT</family>
+              <pointsize>-1</pointsize>
+             </font>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::NoFrame</enum>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="editButton">
+         <property name="text">
+          <string>Edit</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="actionSearch"/>
+   <addaction name="actionQuiz"/>
+  </widget>
+  <action name="actionMenu">
+   <property name="icon">
+    <iconset resource="sources.qrc">
+     <normaloff>:/img/img/menu.svg</normaloff>:/img/img/menu.svg</iconset>
+   </property>
+   <property name="text">
+    <string>Menu</string>
+   </property>
+  </action>
+  <action name="actionSearch">
+   <property name="icon">
+    <iconset resource="sources.qrc">
+     <normaloff>:/img/img/search.svg</normaloff>:/img/img/search.svg</iconset>
+   </property>
+   <property name="text">
+    <string>Search</string>
+   </property>
+  </action>
+  <action name="actionQuiz">
+   <property name="icon">
+    <iconset resource="sources.qrc">
+     <normaloff>:/img/img/5705144.png</normaloff>:/img/img/5705144.png</iconset>
+   </property>
+   <property name="text">
+    <string>Quiz</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="sources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

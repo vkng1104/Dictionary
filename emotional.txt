@@ -1,0 +1,4533 @@
+0
+5
+%-)
+1
+95
+$User has been staring at a green screen for 15 hours straight.
+0
+8
+(
+1
+13
+-:
+2
+95
+$User is left handed.
+1
+24
+8-o
+2
+95
+$It's Mr. Bill!
+1
+26
+:I
+2
+95
+$User is an egghead.
+0
+10
+*
+1
+26
+:o)
+2
+95
+$And Bozo the Clown!
+1
+28
+<:-)
+2
+95
+$User is wearing a Santa Claus Hat.
+0
+11
++-:-)
+1
+95
+$User is the Pope or holds some other religious office.
+0
+12
+,
+1
+13
+-)
+2
+95
+$Ditto...but he's winking.
+1
+26
+:-)
+2
+95
+$Same thing...other side.
+0
+13
+-
+1
+22
+6%
+2
+95
+$User is braindead.
+1
+26
+:-
+2
+8
+(
+3
+95
+$Real punk rockers don't smile.
+2
+9
+)
+3
+95
+$User is a punk rocker.
+1
+29
+=*
+2
+95
+$:-)	User is a TeX wizard.
+0
+14
+.-)
+1
+95
+$User only has one eye.
+0
+18
+2
+1
+45
+MFM
+2
+95
+$To much for me
+1
+53
+U2
+2
+95
+$To you too
+0
+19
+3:
+1
+59
+[
+2
+95
+$Mean Pet smiley.
+1
+61
+]
+2
+95
+$Pet smiley.
+0
+20
+4
+1
+33
+AYN
+2
+95
+$For all you know
+1
+35
+COL
+2
+95
+$For crying out loud
+1
+51
+SALE
+2
+95
+$For sale
+1
+53
+U
+2
+95
+$For you
+0
+24
+8
+1
+13
+-)
+2
+95
+$User is wearing sunglasses.
+1
+26
+:-)
+2
+95
+$User is a little girl.
+1
+95
+$:-)	User is a wizard.
+0
+26
+:
+1
+7
+'-
+2
+8
+(
+3
+95
+$User is crying.
+2
+9
+)
+3
+95
+$User is so happy, s/he is crying.
+1
+8
+(
+2
+95
+$Sad.
+1
+9
+)
+2
+95
+$Happy.
+1
+10
+*
+2
+9
+)
+3
+95
+$User is drunk.
+2
+95
+$Kisses.
+1
+12
+,(
+2
+95
+$Crying.
+1
+13
+-
+2
+3
+#
+3
+95
+$User wears braces.
+2
+6
+&
+3
+95
+$User is tongue tied.
+2
+8
+(
+3
+95
+$boo hoo
+2
+9
+)
+3
+13
+-8
+4
+95
+$User is a Big girl.
+3
+94
+~
+4
+95
+$User drools.
+3
+95
+$ha ha
+2
+10
+*
+3
+95
+$User just ate something sour.
+2
+15
+/
+3
+95
+$User is skeptical.
+2
+16
+0
+3
+95
+$No Yelling!(Quiet Lab)
+2
+23
+7
+3
+95
+$User juust made a wry statement.
+2
+25
+9
+3
+95
+$User is licking his/her lips.
+2
+26
+:
+3
+95
+$Mutant smiley; the invisible smiley.
+2
+30
+>
+3
+95
+$hey hey
+2
+31
+?
+3
+95
+$User smokes a pipe.
+2
+32
+@
+3
+95
+$User is screaming.
+2
+35
+C
+3
+95
+$User is really bummed.
+2
+36
+D
+3
+95
+$User is laughing (at you!)
+2
+37
+E
+3
+95
+$Bucktoothed vampire.
+2
+38
+F
+3
+95
+$Bucktoothed vampire with one tooth missing.
+2
+41
+I
+3
+95
+$hmmm
+2
+47
+O
+3
+95
+$oops
+2
+48
+P
+3
+95
+$nyahhhh!
+2
+49
+Q
+3
+95
+$User is a smoker.
+2
+51
+S
+3
+95
+$User just made an incoherent statement.
+2
+56
+X
+3
+95
+$User's lips are sealed.
+2
+59
+[
+3
+95
+$User is a vampire.
+2
+64
+`
+3
+95
+$User spitting out its chewing tobacco.
+2
+79
+o
+3
+95
+$Uh oh!
+2
+91
+{
+3
+9
+)
+4
+95
+$User has a mustache.
+3
+93
+}
+4
+95
+$User wears lipstick.
+2
+94
+~)
+3
+95
+$User has a cold.
+1
+26
+:-)
+2
+95
+$User wears normal glasses.
+1
+28
+<
+2
+9
+)
+3
+95
+$User is from an Ivy League School.
+2
+95
+$What?
+1
+29
+=)
+2
+95
+$User has two noses.
+1
+30
+>
+2
+95
+$What?
+1
+32
+@
+2
+95
+$What?
+1
+35
+C
+2
+95
+$What?
+1
+36
+D
+2
+95
+$Laughter.
+1
+41
+I
+2
+95
+$Hmmm...
+1
+47
+O
+2
+95
+$Yelling.
+1
+49
+Q
+2
+95
+$What?
+1
+59
+[
+2
+95
+$Real Downer.
+1
+61
+]
+2
+95
+$Gleep...a friendly midget smiley who will gladly be your friend.
+1
+62
+^)
+2
+95
+$User has a broken nose.
+1
+63
+_)
+2
+95
+$User's nose is sliding off of his face.
+1
+86
+v)
+2
+95
+$User has a broken nose, but it's the other way.
+1
+91
+{
+2
+95
+$What?
+1
+93
+}
+2
+95
+$What should we call these? (what?)
+0
+27
+;-)
+1
+95
+$Winky smiley. User just made a flirtatious and/or sarcastic remark.More of a "don't hit me for what I just said" smiley.
+0
+28
+<
+1
+26
+:-I
+2
+95
+$User is a dunce.
+1
+92
+|-
+2
+8
+(
+3
+95
+$User is Chinese and doesn't like these kind of jokes.
+2
+9
+)
+3
+95
+$User is Chinese.
+0
+29
+=
+1
+9
+)
+2
+9
+)
+3
+95
+$Full of laughing
+2
+95
+$Variation on a theme...
+1
+26
+:-)
+2
+95
+$User is a hosehead.
+1
+55
+W=
+2
+95
+$Whatever
+0
+30
+>
+1
+26
+:->
+2
+95
+$User just made a really devilish remark.
+1
+27
+;->
+2
+95
+$Winky and devil combined. A very lewd remark was just made.
+1
+53
+U
+2
+95
+$Screw you!
+0
+31
+?
+1
+20
+4U
+2
+95
+$Question for you
+1
+95
+$Huh?
+0
+32
+@
+1
+26
+:-)
+2
+95
+$User is wearing a turban.
+1
+29
+=
+2
+95
+$User is pro-nuclear war.
+0
+33
+A
+1
+15
+/S/L
+2
+95
+$Age/Sex/Location
+1
+33
+AMOF
+2
+95
+$As a matter of fact
+1
+34
+B
+2
+38
+FL
+3
+95
+$A big fat lady
+2
+52
+T
+3
+95
+$About
+1
+36
+DN
+2
+95
+$Any day now
+1
+38
+F
+2
+33
+A
+3
+41
+I
+4
+35
+C
+5
+51
+S
+6
+95
+$As far as I can see
+5
+52
+T
+6
+95
+$As far as I can tell
+5
+95
+$As far as I'm concerned
+4
+43
+K
+5
+95
+$As far as I know
+3
+57
+YC
+4
+95
+$As far as you're concerned
+2
+43
+K
+3
+95
+$Away from computer keyboard (for wireless users)
+1
+41
+I
+2
+45
+M
+3
+95
+$AOL Instant Messenger; also verb for FTP'ing files via AIM
+2
+51
+SI
+3
+95
+$As I see it
+2
+53
+UI
+3
+95
+$As I understand it
+1
+43
+KA
+2
+95
+$Also known as
+1
+45
+ML
+2
+95
+$All my love
+1
+46
+NFSCD
+2
+95
+$And now for something completely different
+1
+51
+S
+2
+33
+AP
+3
+95
+$As soon as possible
+2
+44
+L
+3
+95
+$Assistant section leader
+2
+47
+OP
+3
+95
+$Assistant system operator
+1
+52
+TM
+2
+95
+$At the moment
+1
+55
+W
+2
+33
+A
+3
+95
+$As well as
+2
+39
+GTHTGTTA
+3
+95
+$Are we going to have to go trough this again?
+2
+40
+HFY
+3
+95
+$Are we having fun yet?
+2
+47
+OL
+3
+95
+$Absent without leave
+1
+57
+Y
+2
+47
+OR
+3
+95
+$At your own risk
+2
+48
+PI?
+3
+95
+$And your point is?
+0
+34
+B
+1
+13
+-)
+2
+95
+$User wears horn-rimmed glasses.
+1
+15
+/
+2
+35
+C
+3
+95
+$Because
+2
+38
+F
+3
+95
+$Boyfriend
+1
+20
+4
+2
+46
+N
+3
+95
+$Bye for now
+2
+95
+$Before
+1
+26
+:-)
+2
+95
+$Sunglasses on head.
+1
+33
+A
+2
+35
+C
+3
+95
+$Back at computer
+2
+39
+G
+3
+95
+$Busting a gut
+2
+43
+K
+3
+95
+$Back at the keyboard
+1
+34
+B
+2
+41
+IAB
+3
+95
+$Be back in a bit
+2
+44
+L
+3
+34
+BNTSBO...
+4
+95
+$Be back later but not to soon because of...
+3
+95
+$Be back later
+2
+50
+R
+3
+95
+$Burnt beyond repair
+2
+51
+S
+3
+95
+$Be back soon
+1
+35
+C
+2
+46
+NU
+3
+95
+$Be Seein' You
+2
+95
+$Because
+1
+37
+EG
+2
+95
+$Big evil grin
+1
+38
+F
+2
+46
+N
+3
+95
+$Bye for now
+2
+95
+$Boyfriend
+1
+39
+G
+2
+95
+$Big grin
+1
+41
+I
+2
+35
+CBW
+3
+95
+$But I could be wrong
+2
+47
+O
+3
+46
+N
+4
+95
+$Believe it or not
+3
+57
+YIOB
+4
+95
+$Blow it out your I/O port
+2
+52
+TMT
+3
+95
+$But in the meantime
+1
+43
+KA
+2
+95
+$Better known as
+1
+44
+L
+2
+95
+$Belly laughing
+1
+45
+M
+2
+34
+B
+3
+95
+$bite my bum
+2
+39
+G
+3
+95
+$Be my guest
+2
+52
+TIPG
+3
+95
+$Brilliant minds think in parallel gutters
+2
+95
+$Bite me
+1
+47
+O
+2
+34
+B
+3
+95
+$Back off bastard
+2
+44
+L
+3
+95
+$Be on later
+2
+45
+M
+3
+95
+$Bitch of mine
+2
+52
+T
+3
+95
+$Back on topic
+1
+50
+R
+2
+34
+B
+3
+34
+B
+4
+95
+$Be right back bitch
+3
+51
+S
+4
+95
+$Be right back soon
+3
+95
+$Be right back
+2
+40
+H
+3
+95
+$Be right here
+2
+51
+S
+3
+95
+$Big red switch
+1
+51
+S
+2
+38
+F
+3
+95
+$But seriously folks
+2
+52
+T
+3
+95
+$But seriously though
+2
+95
+$Big smile
+1
+52
+T
+2
+33
+A
+3
+41
+IM
+4
+95
+$Be that as it may
+3
+95
+$But then again
+2
+36
+DT
+3
+95
+$Been there done that
+2
+47
+OB
+3
+36
+D
+4
+95
+$Be there or be dead
+3
+51
+S
+4
+95
+$Be there or be square
+2
+51
+SOOM
+3
+95
+$Beats the shit out of me
+2
+55
+W
+3
+95
+$By the way
+1
+53
+UDWEISER
+2
+95
+$Because you deserve what every individual should ever receive
+1
+55
+W
+2
+49
+Q
+3
+95
+$Buzz word quotient
+2
+52
+THDIK
+3
+95
+$But what the heck do I know
+1
+57
+YO
+2
+34
+B
+3
+95
+$Bring your own bottle
+2
+40
+H
+3
+95
+$Bat You Onna Head
+1
+95
+$Back
+0
+35
+C
+1
+6
+&G
+2
+95
+$Chuckle and grin
+1
+29
+=
+2
+26
+:-)
+3
+95
+$User is a chef.
+2
+93
+}>;*{))
+3
+95
+$A drunk, devilish chef with a toupee in an updraft, a mustache, and a double chin.
+1
+33
+AD
+2
+37
+ET
+3
+95
+$Can't add, doesn't even try
+2
+95
+$Ctrl-alt-delete
+1
+36
+DIWY
+2
+95
+$Couldn't do it without you
+1
+38
+F
+2
+46
+N
+3
+95
+$Ciao for now
+2
+51
+S
+3
+95
+$Care for secret?
+2
+54
+V
+3
+95
+$Call for votes
+2
+57
+Y
+3
+95
+$Calling for you
+1
+41
+I
+2
+36
+D
+3
+95
+$Consider it done
+2
+45
+M
+3
+95
+$CompuServe information manager
+1
+44
+LM
+2
+95
+$Career limiting move
+1
+45
+M
+2
+32
+@TW
+3
+95
+$Catch me at the web
+2
+41
+IIW
+3
+95
+$Correct me if I'm wrong
+1
+46
+NP
+2
+95
+$Continue in next post
+1
+47
+O
+2
+95
+$Conference
+1
+50
+R
+2
+33
+AFT
+3
+95
+$Can't remember a frighten thing
+2
+51
+S
+3
+95
+$Can’t remember shit
+1
+51
+SG
+2
+95
+$Chuckle snicker grin
+1
+52
+TS
+2
+95
+$Changing the subject
+1
+53
+U
+2
+18
+2
+3
+95
+$See you too
+2
+44
+L
+3
+24
+8R
+4
+95
+$See you later
+3
+95
+$See you later
+2
+95
+$See you
+1
+55
+W
+2
+47
+OT
+3
+95
+$Complete waste of time
+2
+57
+YL
+3
+95
+$Chat with you later
+1
+57
+Y
+2
+33
+A
+3
+44
+L8R
+4
+95
+$See ya later
+3
+95
+$See ya
+2
+47
+O
+3
+95
+$See you online
+0
+36
+D
+1
+34
+BA
+2
+95
+$Doing business as
+1
+35
+CED
+2
+95
+$Disconnected
+1
+38
+FLA
+2
+95
+$Disenhanced four-letter acronym
+1
+39
+GA
+2
+95
+$Digital guardian angel
+1
+40
+H
+2
+95
+$Darling husband
+1
+41
+I
+2
+41
+IK
+3
+95
+$Darn if i know
+2
+43
+KU
+3
+95
+$Do I know you?
+2
+52
+TYID
+3
+95
+$Did I tell you I'm distressed
+2
+57
+Y
+3
+95
+$Do it yourself
+1
+44
+L
+2
+52
+TBBB
+3
+95
+$Don't let the bad bugs bite
+2
+95
+$Dead link
+1
+45
+MMGH
+2
+95
+$Don't make me get hostile
+1
+46
+ND
+2
+95
+$Do not disturb
+1
+49
+QMOT
+2
+95
+$Don't quote me on this
+1
+52
+T
+2
+35
+C
+3
+95
+$Damn this computer
+2
+50
+RT
+3
+95
+$Do the right thing
+1
+53
+UCT
+2
+95
+$Did you see that?
+1
+55
+W
+2
+33
+AI
+3
+95
+$Don't worry about it
+2
+41
+I
+3
+45
+M
+4
+35
+C
+5
+95
+$Do what I mean, correctly
+4
+95
+$Do what I mean
+3
+51
+SNWID
+4
+95
+$Do what I say, not what I do
+1
+57
+Y
+2
+42
+JHIW
+3
+95
+$Don't you just hate it when...
+2
+43
+K
+3
+95
+$Do you know
+2
+47
+OH
+3
+95
+$Do your own homework
+0
+37
+E
+1
+13
+-:-
+2
+9
+)
+3
+95
+$User is a Ham radio operator.
+2
+41
+I
+3
+95
+$Net.ham-radio
+1
+33
+AK
+2
+95
+$Eating at keyboard
+1
+39
+G
+2
+95
+$Evil grin
+1
+41
+IE
+2
+95
+$Enough is enough
+1
+45
+M
+2
+38
+FJI
+3
+95
+$Excuse me for jumping in
+2
+51
+SG
+3
+95
+$Email message
+1
+47
+O
+2
+36
+D
+3
+95
+$End of discussion
+2
+38
+F
+3
+95
+$End of file
+2
+44
+L
+3
+95
+$End of lecture
+2
+45
+M
+3
+95
+$End of message
+2
+52
+T
+3
+95
+$End of thread
+1
+52
+TLA
+2
+95
+$Extended three letter acronym
+0
+38
+F
+1
+15
+/F
+2
+95
+$Face to face
+1
+18
+2F
+2
+95
+$Face to face
+1
+33
+A
+2
+49
+Q
+3
+95
+$Frequently asked questions
+2
+55
+WC
+3
+95
+$For anyone who cares
+1
+34
+B
+2
+47
+OW
+3
+95
+$For better or worse
+2
+52
+TW
+3
+95
+$Fine, be that way
+1
+35
+C
+2
+38
+FS
+3
+95
+$First come, first served
+2
+47
+OL
+3
+95
+$For crying out loud
+1
+41
+I
+2
+38
+FO
+3
+95
+$First in, first out
+2
+51
+SH
+3
+95
+$First in, still here
+1
+44
+LA
+2
+95
+$Four-letter acronym
+1
+47
+O
+2
+33
+A
+3
+36
+D
+4
+95
+$Fight over and die
+3
+38
+F
+4
+95
+$Friend of a friend
+2
+34
+B
+3
+95
+$Full of bless
+2
+35
+C
+3
+44
+L
+4
+95
+$Falling of chair laughing
+3
+95
+$Free of charge
+2
+38
+FL
+3
+95
+$Falling on the floor laughing
+2
+51
+S
+3
+95
+$Freedom of speech
+2
+52
+TCL
+3
+95
+$Falling of the chair laughing
+1
+52
+T
+2
+38
+F
+3
+95
+$Face to face
+2
+52
+TT
+3
+95
+$From time to time
+1
+53
+U
+2
+34
+BAR
+3
+95
+$F*cked up beyond all recognition
+2
+36
+D
+3
+95
+$Fear, uncertainty and doubt
+2
+50
+RTB
+3
+95
+$Full up ready to burst (about hard disk drives)
+2
+95
+$F*cked up
+1
+55
+W
+2
+41
+IW
+3
+95
+$For what it's worth
+2
+95
+$Forward
+1
+57
+Y
+2
+33
+A
+3
+95
+$For your amusement
+2
+37
+E
+3
+47
+O
+4
+95
+$For your eyes only
+3
+95
+$For your entertainment
+2
+41
+I
+3
+95
+$For your information
+1
+95
+$Female
+0
+39
+G
+1
+6
+&BIT
+2
+95
+$Grin and bear it
+1
+18
+2
+2
+34
+B
+3
+95
+$Going to bed
+2
+39
+G
+3
+39
+GS2D
+4
+95
+$Got to go get something to drink
+3
+95
+$Got to go
+1
+33
+A
+2
+38
+FIA
+3
+95
+$Get away from it all
+2
+44
+L
+3
+95
+$Get a life
+2
+51
+S
+3
+95
+$Greetings and salutations
+2
+95
+$Good afternoon
+1
+34
+B
+2
+40
+H
+3
+6
+&K
+4
+95
+$Great big huh and kisses
+3
+95
+$Great big hug
+2
+50
+R
+3
+95
+$Garbled beyond recovery
+2
+57
+Y
+3
+95
+$God bless you
+1
+36
+D
+2
+6
+&
+3
+40
+H
+4
+95
+$Grinning, ducking and hiding
+3
+50
+R
+4
+33
+AFAP
+5
+95
+$Grinning, ducking and running as fast as possible
+4
+37
+EF&F
+5
+95
+$grinning, ducking and running even further and faster
+4
+38
+F
+5
+95
+$Grinning, ducking and running fast
+4
+54
+VF
+5
+95
+$Grinning, ducking and running very
+4
+95
+$Grinning, ducking and running
+3
+55
+W
+4
+95
+$Grin, duck and wave
+2
+55
+W
+3
+95
+$Grin, duck and wave
+1
+37
+E
+2
+95
+$Good evening
+1
+38
+F
+2
+37
+ETE
+3
+95
+$Grinning from ear to ear
+2
+46
+N
+3
+95
+$Gone for now
+2
+53
+U
+3
+95
+$Good for you
+2
+95
+$Girlfriend
+1
+39
+G
+2
+53
+U2
+3
+95
+$Good game you two
+2
+95
+$Good game
+1
+41
+IGO
+2
+95
+$Garbage in garbage out
+1
+42
+J
+2
+95
+$Good job
+1
+44
+L
+2
+6
+&GH
+3
+95
+$Good luck and good hunting
+2
+95
+$Good luck
+1
+45
+M
+2
+33
+AB
+3
+95
+$Give me a break
+2
+52
+TA
+3
+95
+$Great minds think alike
+2
+95
+$Good morning
+1
+46
+N
+2
+95
+$Good night
+1
+47
+O
+2
+43
+K
+3
+95
+$God only knows
+2
+55
+WI
+3
+95
+$Get on with it
+1
+48
+PF
+2
+95
+$General protection fault
+1
+50
+R
+2
+6
+&D
+3
+95
+$Grinning, running and ducking
+2
+24
+8
+3
+95
+$Great
+2
+33
+A
+3
+95
+$Go right ahead
+1
+52
+T
+2
+39
+G
+3
+95
+$Got to go
+2
+51
+SY
+3
+95
+$Glad to see you
+1
+55
+W
+2
+95
+$Good work
+1
+95
+$Grin
+0
+40
+H
+1
+6
+&K
+2
+95
+$Hug and kiss
+1
+15
+/O
+2
+95
+$Hold on
+1
+33
+A
+2
+39
+G
+3
+17
+1
+4
+95
+$Have a good one
+3
+36
+D
+4
+95
+$Have a good day
+3
+46
+N
+4
+95
+$Have a good night
+3
+51
+S
+4
+95
+$Have a good summer
+2
+40
+HA
+3
+95
+$Having a heart attack
+2
+43
+K
+3
+95
+$Hug and kiss
+2
+46
+ND
+3
+95
+$Have a nice day
+1
+34
+B
+2
+95
+$Hug back
+1
+36
+DYWTDT
+2
+95
+$How do you work this dratted thing
+1
+38
+F
+2
+95
+$Have fun
+1
+40
+H
+2
+41
+IS
+3
+95
+$Hanging head in shame
+2
+42
+JK
+3
+95
+$Ha ha, just kidding
+2
+47
+O
+3
+42
+J
+4
+95
+$Ha ha, only joking
+3
+43
+K
+4
+95
+$Ha ha, only kidding
+3
+51
+S
+4
+95
+$Ha ha, only seriously
+2
+95
+$Holding hands
+1
+41
+I
+2
+40
+H
+3
+95
+$Hope it helps
+2
+44
+LIACACLO
+3
+95
+$Help I lapsed into a coma and can’t log off
+2
+55
+WTH
+3
+95
+$Hate it when that happens
+1
+44
+LM
+2
+95
+$He loves me
+1
+45
+M
+2
+51
+S
+3
+95
+$Home made smiley
+2
+52
+T
+3
+95
+$Here’s my try
+2
+55
+WK
+3
+95
+$Homework
+1
+47
+OAS
+2
+95
+$Hold on a second
+1
+51
+SIK
+2
+95
+$How should i know
+1
+52
+T
+2
+40
+H
+3
+34
+BE
+4
+95
+$Hope this has been enlightening
+3
+95
+$Hope this helps
+2
+95
+$Hi there
+1
+57
+YLMS
+2
+95
+$Hate you like my sister
+1
+95
+$Hug
+0
+41
+I
+1
+33
+A
+2
+33
+A
+3
+33
+A
+4
+95
+$I am an accountant
+3
+44
+L
+4
+95
+$I am a lawyer
+2
+35
+C
+3
+95
+$In any case
+2
+37
+E
+3
+95
+$In any event
+2
+39
+G
+3
+95
+$It's all good
+2
+41
+IM
+3
+95
+$In an Irish minute
+2
+46
+NA
+3
+33
+A
+4
+95
+$I am not an accountant
+3
+44
+L
+4
+95
+$I am not a lawyer
+1
+34
+BN
+2
+95
+$I'm bucked naked
+1
+35
+C
+2
+47
+OCBW
+3
+95
+$I could of course be wrong
+2
+95
+$I see
+1
+36
+D
+2
+35
+C
+3
+95
+$I don't care
+2
+39
+G
+3
+41
+I
+4
+95
+$I don't get it
+3
+55
+W
+4
+95
+$In a good way
+2
+41
+I
+3
+95
+$I doubt it
+2
+43
+K
+3
+95
+$I don't know
+2
+52
+TT
+3
+95
+$I'll drink to that
+1
+38
+FVB
+2
+95
+$I feel very bad
+1
+39
+G
+2
+48
+P
+3
+95
+$I gotta pee
+2
+52
+TP
+3
+95
+$I get the point
+1
+40
+H
+2
+52
+TFP
+3
+95
+$I hate this fountain place
+2
+53
+U
+3
+95
+$I hate you
+2
+57
+Y
+3
+95
+$I hate you
+1
+41
+I
+2
+50
+R
+3
+35
+C
+4
+95
+$If I recall correctly
+3
+95
+$If I recall
+2
+52
+T
+3
+95
+$I’m impressed too
+2
+95
+$I’m impressed
+1
+42
+JWT
+2
+43
+K
+3
+95
+$I just want to know
+2
+51
+S
+3
+95
+$I just want to say
+1
+43
+K
+2
+55
+WUM
+3
+95
+$I know what you mean
+2
+95
+$I know
+1
+44
+L
+2
+34
+BCNU
+3
+95
+$I"ll be seeing you
+2
+53
+U
+3
+95
+$I love you
+2
+57
+Y
+3
+38
+FAE
+4
+95
+$I love you forever and ever
+3
+95
+$I love you
+1
+45
+M
+2
+33
+AO
+3
+95
+$In my arrogant opinion
+2
+34
+BO
+3
+95
+$In my bloody opinion
+2
+35
+CO
+3
+95
+$In my considered opinion
+2
+37
+E
+3
+95
+$In my experience
+2
+38
+FAO
+3
+95
+$In my fooling arrogant opinion
+2
+40
+HO
+3
+95
+$In my humble opinion
+2
+46
+NSHO
+3
+95
+$In my, not so humble opinion
+2
+47
+O
+3
+34
+BO
+4
+95
+$In my own biased opinion
+3
+95
+$In my opinion
+2
+48
+P
+3
+47
+OV
+4
+95
+$In my point of view
+3
+95
+$I might be pregnant
+2
+51
+S
+3
+95
+$I am sorry
+2
+95
+$Instant message
+1
+46
+N
+2
+33
+AL
+3
+95
+$I'm not a lawyer
+2
+48
+PO
+3
+95
+$In no particular order
+1
+47
+O
+2
+41
+IT
+3
+95
+$I'm on Irish Time
+2
+55
+W
+3
+95
+$In other words
+1
+50
+R
+2
+35
+C
+3
+95
+$Internet Relay Chat; an multiuser, multinetwork conversing platform (http://www.irc.org)
+2
+44
+L
+3
+95
+$In real life
+2
+45
+MFI
+3
+95
+$I reply merely for information
+1
+51
+S
+2
+52
+T
+3
+45
+M
+4
+95
+$It seems to me
+3
+50
+R
+4
+95
+$I seem to recall
+2
+55
+WYM
+3
+95
+$I see what you mean
+2
+95
+$I'm sorry
+1
+52
+T
+2
+38
+FA
+3
+95
+$In the final analysis
+2
+50
+R
+3
+47
+O
+4
+95
+$In the reality of
+3
+55
+W
+4
+95
+$In the real world
+2
+51
+SFWI
+3
+95
+$If the shoe fits, wear it
+1
+54
+VL
+2
+95
+$In virtual live
+1
+55
+W
+2
+33
+ALY
+3
+95
+$I will always love you
+2
+34
+BNI
+3
+95
+$It would be nice if
+1
+57
+Y
+2
+43
+KWIM
+3
+95
+$If you know what I mean
+2
+51
+SWIM
+3
+95
+$If you see what I mean
+0
+42
+J
+1
+15
+/
+2
+43
+K
+3
+95
+$Just kidding
+2
+48
+P
+3
+95
+$Just playing
+1
+33
+A
+2
+45
+M
+3
+95
+$Just a minute
+2
+51
+S
+3
+37
+E
+4
+95
+$Just another system error
+3
+95
+$Just a second
+2
+55
+WS
+3
+95
+$Just another windows shell
+1
+41
+IC
+2
+95
+$Just in case
+1
+42
+JWY
+2
+95
+$Just joking with you
+1
+43
+K
+2
+95
+$Just kidding
+1
+45
+M
+2
+40
+HO
+3
+95
+$Just my humble opinion
+2
+47
+O
+3
+95
+$Just my opinion
+1
+48
+P
+2
+95
+$Just playing
+1
+52
+TLYK
+2
+95
+$Just to let you know
+1
+55
+W
+2
+95
+$Just wondering
+0
+43
+K
+1
+26
+:P
+2
+95
+$User is a little kid with a propeller beenie.
+1
+34
+B
+2
+95
+$Kiss back
+1
+40
+HYF
+2
+95
+$Know how you feel
+1
+41
+I
+2
+51
+S
+3
+51
+S
+4
+95
+$Keeping it sweetly simple
+3
+95
+$Keep it simple
+2
+52
+T
+3
+95
+$Keep in touch
+1
+47
+OT
+2
+35
+C
+3
+95
+$Kiss on the cheek
+2
+44
+L
+3
+95
+$Kiss on the lips
+1
+53
+UTGW
+2
+95
+$Keep up the good work
+1
+55
+WIM
+2
+95
+$Know what I mean?
+1
+95
+$Kiss (rarely used)
+0
+44
+L
+1
+24
+8R
+2
+95
+$Later
+1
+33
+AB
+2
+95
+$Life's a bitch
+1
+34
+BR
+2
+95
+$Little boys room
+1
+36
+D
+2
+95
+$Long distance
+1
+39
+GR
+2
+95
+$Little girls room
+1
+40
+H
+2
+45
+M
+3
+95
+$Lord help me
+2
+53
+U
+3
+95
+$Lord help us
+1
+44
+L&P
+2
+95
+$Live long & prosper
+1
+45
+M
+2
+33
+A
+3
+95
+$Leave me alone
+2
+40
+HO
+3
+95
+$Laughing my head off
+2
+43
+K
+3
+95
+$Let me know
+1
+46
+NK
+2
+95
+$Love and kisses
+1
+47
+O
+2
+44
+L
+3
+33
+A
+4
+95
+$Laughing out loud again
+3
+95
+$Lots of love
+2
+45
+ML
+3
+41
+ILY
+4
+95
+$Light of my life, I love you
+3
+95
+$Light of my life (or love of my life)
+2
+47
+OL
+3
+95
+$Laughing out outrageously loud
+1
+51
+SH
+2
+41
+IPMP
+3
+95
+$Laughing so hard I pissed my pants
+2
+45
+MB
+3
+34
+B
+4
+95
+$Laughing so hard my belly is bouncing
+3
+40
+H
+4
+95
+$Laughing so hard my belly hurts
+1
+52
+T
+2
+46
+NS
+3
+95
+$Long time no see
+2
+50
+R
+3
+95
+$Long term relationship
+2
+51
+S
+3
+95
+$Laughing to self
+1
+53
+U
+2
+44
+LAS
+3
+95
+$Love you like a sister
+2
+55
+WAMH
+3
+95
+$Love you with all my heart
+1
+57
+Y
+2
+43
+K
+3
+95
+$Let you know
+2
+44
+L
+3
+33
+A
+4
+34
+B
+5
+95
+$Love ya like a brother
+4
+51
+S
+5
+95
+$Love ya like a sister
+3
+95
+$Love ya lots
+2
+95
+$Love ya
+1
+95
+$Laugh
+0
+45
+M
+1
+24
+8
+2
+95
+$Mate
+1
+34
+B
+2
+95
+$Maybe
+1
+57
+YOB
+2
+95
+$Mind your own business
+1
+95
+$Male
+0
+46
+N
+1
+15
+/
+2
+35
+C
+3
+95
+$Not cool
+2
+45
+M
+3
+95
+$Never mind / nothing much
+2
+51
+S
+3
+95
+$No shit
+1
+18
+2M
+2
+95
+$Not too much
+1
+34
+BD
+2
+95
+$No big deal
+1
+37
+E
+2
+17
+1
+3
+95
+$Anyone
+2
+52
+TUA
+3
+95
+$Nobody ever tells us anything
+1
+38
+FI
+2
+95
+$No found idea
+1
+44
+L
+2
+95
+$Not likely
+1
+45
+M
+2
+40
+H
+3
+95
+$Not much here
+2
+42
+JC
+3
+95
+$Nothing much, just chillin'
+2
+95
+$Never mind / nothing much
+1
+47
+O
+2
+45
+M
+3
+95
+$No offense meant
+2
+52
+TTOMH
+3
+95
+$Not of the top of my mind
+2
+57
+Y
+3
+34
+B
+4
+95
+$None of your business
+3
+38
+FB
+4
+95
+$None of your failing business
+1
+48
+P
+2
+95
+$No problem
+1
+50
+RN
+2
+95
+$No response necessary
+1
+51
+S
+2
+95
+$No shit
+1
+52
+TA
+2
+95
+$Non-technical acronym
+1
+54
+VM
+2
+95
+$Nevermind
+1
+95
+$In
+0
+47
+O
+1
+13
+-)
+2
+95
+$Megaton Man On Patrol!(or else, user is a scuba diver)
+1
+34
+BTW
+2
+95
+$Oh, by the way
+1
+38
+F
+2
+41
+IS
+3
+95
+$On floor with stitches
+2
+95
+$On fire
+1
+40
+H
+2
+95
+$Off hand
+1
+41
+IC
+2
+95
+$Oh I see
+1
+43
+K
+2
+95
+$Abbreviation of oll korrect (all correct)
+1
+44
+L
+2
+95
+$Old lady (wife, girlfriend)
+1
+45
+M
+2
+39
+G
+3
+95
+$Oh my god / gosh / goodness
+2
+95
+$Old man (husband, boyfriend)
+1
+47
+OC
+2
+95
+$Out of character
+1
+52
+T
+2
+47
+OH
+3
+95
+$On the other hand
+2
+48
+P
+3
+95
+$On the phone
+2
+52
+TOMH
+3
+95
+$Off the top of my head
+2
+95
+$Off topic / other topic
+1
+95
+$:-)	User is an angel (at heart, at least).
+0
+48
+P
+1
+33
+AW
+2
+95
+$Parents are watching
+1
+36
+DS
+2
+95
+$Please don't shoot
+1
+37
+EBCAK
+2
+95
+$Problem exists between chair and keyboard
+1
+44
+L
+2
+51
+S
+3
+95
+$Please
+2
+58
+Z
+3
+95
+$Please
+1
+45
+M
+2
+38
+FJI
+3
+95
+$Pardon me for jumping in
+2
+42
+JI
+3
+95
+$Pardon my jumping in (Another way for PMFJI)
+2
+48
+P
+3
+95
+$Peed my pants
+2
+95
+$Private message
+1
+47
+O
+2
+33
+AHF
+3
+95
+$Put on a happy face
+2
+35
+C
+3
+95
+$Point of contact
+2
+47
+OF
+3
+95
+$I have left the chat
+2
+51
+S
+3
+95
+$Parents over shoulder
+2
+52
+TB
+3
+95
+$Pats on the back
+2
+54
+V
+3
+95
+$Point of view
+1
+48
+PL
+2
+95
+$People
+1
+51
+S
+2
+33
+A
+3
+95
+$Public show of affection
+2
+95
+$Post script
+0
+49
+Q
+1
+20
+4U
+2
+95
+$Question for you
+1
+51
+S
+2
+44
+L
+3
+95
+$Reply
+2
+47
+O
+3
+95
+$Conversation
+1
+52
+T
+2
+95
+$Cutie
+0
+50
+R
+1
+35
+CED
+2
+95
+$Reconnected
+1
+37
+E
+2
+95
+$Hi again (same as re's)
+1
+47
+O
+2
+38
+FL
+3
+47
+OL
+4
+33
+AY
+5
+95
+$Rolling on floor laughing out loud at you
+4
+52
+TSDMC
+5
+95
+$Rolling on floor laughing out loud tears streaming down my cheeks
+4
+53
+UTS
+5
+95
+$Rolling on floor laughing out loud unable to speak
+4
+55
+WTIME
+5
+95
+$Rolling on floor laughing out loud with tears in my eyes
+3
+95
+$Rolling on floor laughing
+2
+52
+TFL
+3
+95
+$Rolling on the floor laughing
+1
+51
+SN
+2
+95
+$Real soon now
+1
+52
+T
+2
+38
+F
+3
+95
+$Read the FAQ
+2
+51
+SM
+3
+95
+$Read the stupid manual
+1
+53
+U
+2
+47
+OK?
+3
+95
+$Are you okay?
+2
+52
+TTM
+3
+95
+$Are you talking to me
+1
+54
+VD
+2
+95
+$Really very dumb
+0
+51
+S
+1
+18
+2R
+2
+95
+$Send to receive
+1
+33
+AMAGAL
+2
+95
+$Stop annoying me and get a live
+1
+35
+CNR
+2
+95
+$Sorry, could not resist
+1
+37
+ETE
+2
+95
+$Smiling ear to ear
+1
+40
+H
+2
+41
+I
+3
+35
+CPMP
+4
+95
+$So happy I could piss my pants
+3
+36
+D
+4
+95
+$Slaps head in disgust
+2
+45
+MILY
+3
+95
+$See how much I love you
+2
+95
+$So hot
+1
+41
+I
+2
+45
+M
+3
+95
+$Shit, it's Monday
+2
+52
+TWB
+3
+95
+$Sorry, in the wrong box
+1
+46
+NAFU
+2
+95
+$Situation normal, all fed up
+1
+47
+O
+2
+40
+HF
+3
+95
+$Sense of humor failure
+2
+45
+MY
+3
+95
+$Sick of me yet?
+2
+95
+$Significant other
+1
+48
+PAM
+2
+95
+$Stupid persons' advertisement
+1
+50
+RY
+2
+95
+$Sorry
+1
+52
+TW
+2
+95
+$Search the web
+1
+55
+W
+2
+33
+A
+3
+43
+K
+4
+95
+$Sealed with a kiss
+3
+44
+LK
+4
+95
+$Sweet, with all love, kisses
+2
+44
+L
+3
+95
+$Screaming with laughter
+1
+57
+YS
+2
+47
+OP
+3
+95
+$System operator
+2
+95
+$See you soon
+1
+95
+$Smile
+0
+52
+T
+1
+33
+A
+2
+38
+FN
+3
+95
+$That's all for now
+2
+95
+$Thanks again
+1
+34
+B
+2
+33
+A
+3
+95
+$To be announced
+2
+40
+H
+3
+95
+$To be honest
+1
+35
+CO
+2
+95
+$Taken care of
+1
+39
+GIF
+2
+95
+$Thank god its Friday
+1
+40
+H
+2
+52
+TH
+3
+95
+$To hot to handle
+2
+56
+X
+3
+95
+$Thanks
+1
+41
+I
+2
+33
+A
+3
+95
+$Thanks in advance
+2
+41
+IC
+3
+95
+$The idiots in charge
+1
+42
+JM
+2
+95
+$That's just me
+1
+44
+LA
+2
+95
+$Three-letter acronym
+1
+45
+M
+2
+33
+A
+3
+95
+$Take my advice
+2
+41
+I
+3
+95
+$To much information
+1
+46
+N
+2
+51
+STAAFL
+3
+95
+$There's no such thing as a free lunch
+2
+56
+X
+3
+95
+$Thanks
+1
+47
+O
+2
+40
+H
+3
+95
+$To other half
+2
+57
+Y
+3
+95
+$Thinking of you
+1
+48
+PTB
+2
+95
+$The powers that be
+1
+51
+SDMC
+2
+95
+$Tears streaming down my cheeks
+1
+52
+T
+2
+18
+2T
+3
+95
+$To tired to talk
+2
+38
+FN
+3
+95
+$Ta ta for now
+2
+52
+T
+3
+95
+$Thought that, too
+2
+53
+UL
+3
+95
+$Talk to you later
+2
+57
+YL
+3
+45
+MF
+4
+95
+$Talk to you later my friend
+3
+95
+$Talk to you later
+1
+53
+U
+2
+95
+$Thank you
+1
+55
+WMA
+2
+95
+$Till we meet again
+1
+56
+X
+2
+95
+$Thanx
+1
+57
+Y
+2
+54
+VM
+3
+95
+$Thank you very much
+2
+95
+$Thank you
+1
+95
+$Tickle
+0
+53
+U
+1
+18
+2
+2
+95
+$You too
+1
+50
+R
+2
+33
+AQT!
+3
+95
+$You are a cutie!
+2
+95
+$Your
+1
+55
+W
+2
+95
+$You're welcom
+0
+54
+VB
+1
+39
+G
+2
+95
+$Very big grin
+1
+51
+S
+2
+95
+$Very big smile
+0
+55
+W
+1
+15
+/E
+2
+95
+$Whatever
+1
+24
+8
+2
+33
+AM
+3
+95
+$Wait a minute
+2
+95
+$Wait
+1
+33
+AY
+2
+95
+$Who are you
+1
+34
+B
+2
+51
+S
+3
+95
+$Write back soon
+2
+95
+$Welcome back
+1
+36
+DHLM
+2
+95
+$Why doesn't he love me
+1
+37
+E
+2
+95
+$Whatever
+1
+38
+FM
+2
+95
+$Works for me
+1
+46
+NDITWB
+2
+95
+$We never did it this way before
+1
+48
+P
+2
+95
+$Wrong person
+1
+50
+RT
+2
+95
+$With respect to
+1
+52
+T
+2
+38
+F
+3
+95
+$What/who the fool?
+2
+39
+G
+3
+48
+P
+4
+95
+$Want to go private?
+3
+95
+$Way to go
+2
+40
+H
+3
+95
+$What/who the heck?
+2
+45
+MI
+3
+95
+$Way to much information
+1
+53
+U
+2
+31
+?
+3
+95
+$What's up?
+2
+36
+D
+3
+95
+$What's up dog?
+2
+38
+F
+3
+95
+$Where are you from?
+2
+55
+WT
+3
+95
+$Whats up with that
+2
+95
+$What's up?
+1
+57
+Y
+2
+45
+MM
+3
+95
+$Will you marry me?
+2
+51
+SIWYG
+3
+95
+$What you see is what you get
+1
+95
+$Wink
+0
+56
+X
+1
+13
+-(
+2
+95
+$Net.suicide
+1
+52
+TLA
+2
+95
+$Extended three letter acronym
+0
+57
+Y
+1
+18
+2K
+2
+95
+$You're too kind
+1
+33
+ATB
+2
+95
+$You are the best
+1
+34
+BS
+2
+95
+$You'll be sorry
+1
+39
+G
+2
+95
+$Young gentleman
+1
+40
+HBBYBD
+2
+95
+$You'd have better bet your bottom dollar
+1
+44
+L
+2
+95
+$You 'll live
+1
+45
+M
+2
+45
+M
+3
+36
+D
+4
+95
+$You've made my day
+3
+54
+V
+4
+95
+$Your mileage may vary
+2
+95
+$You mean
+1
+47
+OYO
+2
+95
+$You're on your own
+1
+52
+T?
+2
+95
+$You there?
+1
+54
+VW
+2
+95
+$You're very welcome
+1
+55
+W
+2
+41
+IA
+3
+95
+$You're welcome in advance
+2
+52
+T
+3
+43
+KM
+4
+95
+$You want to kiss me
+3
+44
+LM
+4
+95
+$You want to love me
+2
+95
+$You are welcome
+1
+57
+Y4U
+2
+95
+$Two wise for you
+1
+95
+$Why?
+0
+59
+[
+1
+26
+:
+2
+13
+-)
+3
+95
+$User is wearing a walkman.
+2
+61
+]
+3
+95
+$User is a robot.
+1
+61
+]
+2
+95
+$Hugs and ...
+0
+62
+^
+1
+13
+-
+2
+62
+^
+3
+95
+$Satisfied Smile
+2
+94
+~
+3
+95
+$Wink
+1
+63
+_
+2
+13
+-
+3
+95
+$Wink
+2
+62
+^
+3
+95
+$Smile
+1
+79
+o
+2
+95
+$Snoring.
+0
+64
+`:-)
+1
+95
+$User shaved one of his eyebrows off this morning.
+0
+68
+d8=
+1
+95
+$Your pet beaver is wearing goggles and a hard hat.
+0
+78
+n00b
+1
+95
+$Leetspeak for beginner
+0
+91
+{:-)
+1
+95
+$User wears a toupee.
+0
+92
+|
+1
+13
+-
+2
+9
+)
+3
+95
+$hee hee
+2
+36
+D
+3
+95
+$ho ho
+2
+41
+I
+3
+95
+$User is asleep.
+2
+47
+O
+3
+95
+$User is yawning/snoring.
+1
+41
+I
+2
+95
+$Asleep.
+0
+93
+}:
+1
+13
+-(
+2
+95
+$Toupee in an updraft.
+1
+62
+^#})
+2
+95
+$Updrafted bushy-mustached pointy nosed smiley with a double-chin.
+0
+94
+~~:-(
+1
+95
+$Net.flame

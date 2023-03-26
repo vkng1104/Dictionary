@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>HisFav</class>
+ <widget class="QDialog" name="HisFav">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>474</width>
+    <height>541</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Search history and Favorite list</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#tabWidget
+{
+	font-family: &quot;Colonna MT&quot;;
+	font-size: 30px;
+	font-weight: bold;
+	background-color: #e6ccff;	
+}
+#central{
+	background-color: #e6ccff;
+}</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QWidget" name="central" native="true">
+     <layout class="QHBoxLayout" name="horizontalLayout_8">
+      <item>
+       <widget class="QTabWidget" name="tabWidget">
+        <property name="autoFillBackground">
+         <bool>false</bool>
+        </property>
+        <property name="styleSheet">
+         <string notr="true"/>
+        </property>
+        <property name="currentIndex">
+         <number>1</number>
+        </property>
+        <widget class="QWidget" name="tab_his">
+         <attribute name="title">
+          <string>History</string>
+         </attribute>
+         <layout class="QHBoxLayout" name="horizontalLayout_5">
+          <item>
+           <widget class="QWidget" name="widget_3" native="true">
+            <layout class="QHBoxLayout" name="horizontalLayout_6">
+             <item>
+              <widget class="QTableWidget" name="tableWidget_3">
+               <property name="frameShape">
+                <enum>QFrame::StyledPanel</enum>
+               </property>
+               <column>
+                <property name="text">
+                 <string>Word</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Colonna MT</family>
+                  <pointsize>15</pointsize>
+                 </font>
+                </property>
+                <property name="textAlignment">
+                 <set>AlignLeading|AlignBottom</set>
+                </property>
+                <property name="icon">
+                 <iconset resource="sources.qrc">
+                  <normaloff>:/img/img/pen-tool.svg</normaloff>:/img/img/pen-tool.svg</iconset>
+                </property>
+               </column>
+               <column>
+                <property name="text">
+                 <string>Time</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Colonna MT</family>
+                  <pointsize>15</pointsize>
+                 </font>
+                </property>
+                <property name="textAlignment">
+                 <set>AlignLeading|AlignBottom</set>
+                </property>
+                <property name="icon">
+                 <iconset resource="sources.qrc">
+                  <normaloff>:/img/img/clock.svg</normaloff>:/img/img/clock.svg</iconset>
+                </property>
+               </column>
+               <column>
+                <property name="text">
+                 <string>Date</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Colonna MT</family>
+                  <pointsize>15</pointsize>
+                 </font>
+                </property>
+                <property name="textAlignment">
+                 <set>AlignLeading|AlignBottom</set>
+                </property>
+                <property name="icon">
+                 <iconset resource="sources.qrc">
+                  <normaloff>:/img/img/calendar.svg</normaloff>:/img/img/calendar.svg</iconset>
+                </property>
+               </column>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+        <widget class="QWidget" name="tab_fav">
+         <attribute name="title">
+          <string>Favorite list</string>
+         </attribute>
+         <layout class="QVBoxLayout" name="verticalLayout_2">
+          <item>
+           <widget class="QWidget" name="widget_4" native="true">
+            <layout class="QVBoxLayout" name="verticalLayout">
+             <item>
+              <widget class="QTableWidget" name="tableWidget_4">
+               <column>
+                <property name="text">
+                 <string>Word</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Colonna MT</family>
+                  <pointsize>15</pointsize>
+                 </font>
+                </property>
+                <property name="textAlignment">
+                 <set>AlignLeading|AlignBottom</set>
+                </property>
+                <property name="icon">
+                 <iconset resource="sources.qrc">
+                  <normaloff>:/img/img/pen-tool.svg</normaloff>:/img/img/pen-tool.svg</iconset>
+                </property>
+               </column>
+               <column>
+                <property name="text">
+                 <string>Time</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Colonna MT</family>
+                  <pointsize>15</pointsize>
+                 </font>
+                </property>
+                <property name="textAlignment">
+                 <set>AlignLeading|AlignBottom</set>
+                </property>
+                <property name="icon">
+                 <iconset resource="sources.qrc">
+                  <normaloff>:/img/img/clock.svg</normaloff>:/img/img/clock.svg</iconset>
+                </property>
+               </column>
+               <column>
+                <property name="text">
+                 <string>Date</string>
+                </property>
+                <property name="font">
+                 <font>
+                  <family>Colonna MT</family>
+                  <pointsize>15</pointsize>
+                 </font>
+                </property>
+                <property name="textAlignment">
+                 <set>AlignLeading|AlignBottom</set>
+                </property>
+                <property name="icon">
+                 <iconset resource="sources.qrc">
+                  <normaloff>:/img/img/calendar.svg</normaloff>:/img/img/calendar.svg</iconset>
+                </property>
+               </column>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="sources.qrc"/>
+ </resources>
+ <connections/>
+</ui>
